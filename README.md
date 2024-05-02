@@ -71,5 +71,4 @@ Go to the project directory
 ```
 
 ## Demo Video 
-
-https://docs.google.com/forms/d/e/1FAIpQLSfdD8wuDv1dnWBe8gP1fmj1VBvQnwssNJYNq49plCI-6b17RQ/viewform
+https://drive.google.com/drive/folders/1hNCCXnpfgb-COgSsK657Kznh7Ln9JAuX
